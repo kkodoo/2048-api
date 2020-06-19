@@ -1,6 +1,4 @@
 # 2048-api
-A 2048 game api for online training supervised learning (imitation learning) learning agents,training while building data.
-
 # Code structure
 * [`game2048/`](game2048/): the main package.
     * [`game.py`](game2048/game.py): the core 2048 `Game` class.
@@ -30,7 +28,7 @@ A 2048 game api for online training supervised learning (imitation learning) lea
     * ['model3_pretrain_params.pkl']:(game2048/model3_pretrain_params.pkl): pre-train model for model3
     * ['model3_pretrain_params_2.pkl']:(game2048/model3_pretrain_params_2.pkl): pre-train model for model4
     * ['model5_pretrain_params.pkl']:(game2048/model5_pretrain_params.pkl): pre-train model for model5
-    # For privacy and github limitation, model5 params haven't been uploaded.
+    * For privacy and github limitation, model5 params haven't been uploaded.
 
 * [`explore.ipynb`](explore.ipynb): introduce how to use the `Agent`, `Display` and `Game`.
 * [`static/`](static/): frontend assets (based on Vue.js) for web app.
