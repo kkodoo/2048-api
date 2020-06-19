@@ -34,7 +34,7 @@
 * [`static/`](static/): frontend assets (based on Vue.js) for web app.
 * [`webapp.py`](webapp.py): run the web app (backend) demo.
 * [`evaluate.py`](evaluate.py): evaluate your self-defined agent.
-* ['evaluate_voting.py']:(evaluate_voting.py): evaluate my voting agent
+* [`evaluate_voting.py`](evaluate_voting.py): evaluate my voting agent.
 
 # Requirements
 * code only tested on linux system (ubuntu 16.04)
