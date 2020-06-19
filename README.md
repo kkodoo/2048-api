@@ -5,7 +5,7 @@
     * [`agents.py`](game2048/agents.py): the `Agent` class with instances, is a strong agent based on rule.
     * [`displays.py`](game2048/displays.py): the `Display` class with instances, to show the `Game` state.
     * [`expectimax/`](game2048/expectimax): a powerful ExpectiMax agent by [here](https://github.com/nneonneo/2048-ai)
-    * My Design
+    # My Design
     * ['model1/'](game2048/model1/): training code for model1 (online) 
         * ['dataloader.py'](game2048/model1/dataloader.py): dataloader for my model1
         * ['models.py](game2048/model1/models.py): my Neural Network Model based on Vgg
@@ -20,9 +20,9 @@
     * ['model5/'](game2048/model5/): training code for model5
         * ['CNN_deep.py'](game2048/model5/CNN_deep.py): include Network Model and training code for model5
     
-    * agents
+    # agents
     * ['agent_voting.py']:(game2048/agents_voting.py): my design agent, load five models and voting to get direction
-    * params
+    # params
     * ['model1_pretrain_params.pkl']:(game2048/model1_pretrain_params.pkl): pre-train model for model1
     * ['model2_pretrain_params.pkl']:(game2048/model2_pretrain_params.pkl): pre-train model for model2
     * ['model3_pretrain_params.pkl']:(game2048/model3_pretrain_params.pkl): pre-train model for model3
@@ -34,7 +34,6 @@
 * [`static/`](static/): frontend assets (based on Vue.js) for web app.
 * [`webapp.py`](webapp.py): run the web app (backend) demo.
 * [`evaluate.py`](evaluate.py): evaluate your self-defined agent.
-* evaluate_voting
 * ['evaluate_voting.py']:(evaluate_voting.py): evaluate my voting agent
 
 # Requirements
